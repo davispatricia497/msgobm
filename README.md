@@ -1,0 +1,2 @@
+# msgobm
+Daily digest notes
